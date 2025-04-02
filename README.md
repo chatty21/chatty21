@@ -1,22 +1,30 @@
-### Hi there 👋
-#Chaitanya Patil
+# Hi there 👋  
+I'm **Chaitanya Patil** – a Data Analyst and Full-Stack enthusiast passionate about solving real-world problems through data-driven insights.
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Machine learning
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with Technical Internship
-- 💬 Ask me about HTML and CSS
-- 📫 How to reach me: Instagram- @camtastic724
--->
-<!--
-**chatty21/chatty21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate Student @ Rochester Institute of Technology (MS in IT & Analytics)  
+📊 Data Analyst | Python | SQL | Tableau | Power BI  
+🤖 Passionate about LLMs, Predictive Modeling, and Business Intelligence  
+💼 Currently open to full-time Data Analyst / BI Analyst roles (May 2025 availability)  
+📈 Built projects on EV stock forecasting, EPL player analysis, and LLM-powered data auditing  
+🌐 Portfolio: [chatty21.github.io/Portfolio](https://chatty21.github.io/Portfolio)  
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/chaitanyapatil21/) | [GitHub](https://github.com/chatty21)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Machine learning
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with Technical Internship
-- 💬 Ask me about HTML and CSS
-- 📫 How to reach me: Instagram- @camtastic724
--->
+## 🔧 Tech Stack
+**Languages & Tools:** Python, SQL, R, Java, C++, Git, Flask  
+**Analytics & ML:** Scikit-learn, TensorFlow, Pandas, NumPy, Tableau, Power BI  
+**Data Ops:** AWS S3/Redshift, Azure SQL, ETL Pipelines  
+**LLMs & Automation:** Hugging Face Transformers, LLaMA 2, Streamlit, GridSearchCV
+
+---
+
+## 📌 Featured Projects
+- **🔮 EV Stock Forecasting App** — LSTM-powered web app with 85% accuracy  
+- **⚽ EPL Wage & Injury Analytics** — ROI-focused dashboard built in Tableau  
+- **📊 LLM Data Auditor** — Bias/anomaly detection app using LLaMA 2 + Streamlit  
+- **💻 Real-time Dashboards** — Built interactive, glowing UI for real-time system metrics
+
+---
+
+**Let's build something amazing. I'm currently seeking opportunities in data analytics, ML, or BI roles — feel free to reach out!**
